@@ -2,8 +2,11 @@
 VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 •	SHALINI N S- (TEAM LEADER)
+
 •	SUBASRI S
+
 •	SNEHA S
+
 •	NISALYA
 
 Problem Statement :
